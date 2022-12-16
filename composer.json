@@ -12,5 +12,8 @@
             "name": "Arisen Fernandes"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "srijanone/ezcontent":"2.1.3"
+    }
 }
