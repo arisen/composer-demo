@@ -2,6 +2,7 @@
     "name": "arisen/composer-demo",
     "type": "project",
     "license": "GPL-2.0-or-later",
+    "description": "Demo composer package",
     "autoload": {
         "psr-4": {
             "Arisen\\ComposerDemo\\": "src/"
@@ -13,7 +14,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "srijanone/ezcontent":"2.1.3"
-    }
+    "require": {}
 }
