@@ -1,0 +1,16 @@
+{
+    "name": "arisen/composer-demo",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Arisen\\ComposerDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arisen Fernandes"
+        }
+    ],
+    "require": {}
+}
